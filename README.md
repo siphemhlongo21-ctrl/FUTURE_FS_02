@@ -23,3 +23,5 @@ A simple CRM application to manage client leads generated from website contact f
 3. node index.js
 4. Open index.html in browser
 
+## Author
+Siphesihle Mhlongo | Future Interns Full Stack Web Development Intern
